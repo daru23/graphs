@@ -1,0 +1,9 @@
+Grafo g
+
+Numero de Vertices: 2
+Numeros de Lados: 1
+Vértices:
+ver2
+ver1
+Lados:
+ar1
